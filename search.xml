@@ -19,25 +19,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
-    <url>/tag/index.html</url>
-    <content><![CDATA[<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-
-</body>
-</html>
----
-title: '''tag'''
-layout: tag
----]]></content>
-  </entry>
-  <entry>
     <title>tag</title>
     <url>/tag/index.html</url>
     <content><![CDATA[<p>test</p>
